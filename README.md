@@ -34,7 +34,7 @@ Regarding the dataset Twitter, even if the dataset name is the same in several p
 -	Twitter (a): Data gathered from Twitter which comprises profiles of 52 million users, 1.9 billion directed follow links among these users, and 1.7 billion public tweets posted by the collected users.
 -	Twitter (b): The dataset contains 569 URLS shared by 5,942 users. The reshare sequence for a URL creates a cascade where the average cascade length is 5.70.
 
-###Healthcare
+### Healthcare
 -	[Electrical Medical Records (MIMIC II)]( https://drive.google.com/drive/folders/1DJZjYv1eWcmK55xmRk4jVRSB1Alx3vY4): MIMIC II is a collection of de-identified clinical visit records of ICU patients for seven years. Each event records the time when a patient had a visit to the hospital and the disease. The dataset contains 650 sequences, each of which corresponds to a patient’s clinical visits in a seven-year period. Each clinical event records the diagnosis result and the timestamp of that visit.
 -	[Medical Information Mart for Intensive Care III (MIMIC-III)]( https://physionet.org/content/mimiciii/1.4/): MIMIC-III contains de-identiﬁed clinical visit records from 2001 to 2012 for more than 40,000 patients.
 -	[CLINIC]( https://pubmed.ncbi.nlm.nih.gov/7810938/): CLINIC is a dataset for tracking patient clinical status; it consists of baseline physiologic variables along with the time of death (in case).
@@ -46,7 +46,7 @@ Regarding the dataset Twitter, even if the dataset name is the same in several p
 -	COVID-19 CASES: COVID-19 CASES contains daily COVID-19 cases in New Jersey state. 
 -	BOLD5000: BOLD5000 consists of fMRI scans as participants are given visual stimuli
 
-###Finance
+### Finance
 -	[Financial Transaction]( https://github.com/dunan/NeuralPointProcess/tree/master/data/real/book_order): Financial Transaction contains transaction records for a stock in one day. Each record stores the time information (in millisecond) and the possible action, i.e., buy or sell. 
 -	[BPI Challenge 2012]( https://data.4tu.nl/articles/dataset/BPI_Challenge_2012/12689204) and [2017]( https://data.4tu.nl/articles/dataset/BPI_Challenge_2017/12696884): BPI Challenge contains traces of a loan application process at a Dutch financial institute.
 -	BPI Challenge 2013: BPI Challenge 2013 contains traces of event data of an incident and problem management system by Volvo Belgium.
@@ -54,7 +54,7 @@ Regarding the dataset Twitter, even if the dataset name is the same in several p
 -	FICO-UCSD: A credit card dataset from the “UCSD-FICO Data Mining Contest" (FICO-UCSD., 2009) to detect fraud transactions. The dataset is labeled, anonymous and imbalanced.
 -	QuantHouse: The financial data has been provided by QuantHouse EUROPE/ASIA, and consists of DAX future contracts between 01/01/2014 and 03/01/2014.
 
-###Daily Life
+### Daily Life
 -	New York City Taxi: New York City Taxi is about the trip records of individual taxis for 12 months in 2013. It contains the temporal information of pick-up (drop-off) passengers associated with every trip as well as the location information.
 -	[Breakfast](https://serre-lab.clps.brown.edu/resource/breakfast-actions-dataset/): Breakfast dataset is composed of 1712 videos containing 52 subjects performing breakfast preparation activities. The videos are recorded in 18 different kitchens and are composed of 48 fine-grained actions.
 -	[50Salads](https://cvip.computing.dundee.ac.uk/datasets/foodpreparation/50salads/): It contains 50 RGB video and 3-axis accelerometer data belonging to salad preparation activities performed by 25 actors where each actor prepares two salads. There is an annotation file in which the activity is annotated with two levels of granularity (i.e., high and low). Specifically, the dataset is composed of 17 fine-grained action classes. 
@@ -67,18 +67,18 @@ Regarding the dataset Twitter, even if the dataset name is the same in several p
 -	[eCommerce](https://www.kaggle.com/datasets/mkechinov/ecommerce-events-history-in-cosmetics-shop):  eCommerce contains users’ behavior in a cosmetics online store. Each user’s behaviors are categorized into four types: ‘view’, ‘cart’, ‘remove-from-cart’, and ‘purchase’. This dataset contains 6,200 sequences with an average length of 64.
 -	Citi Bike: Citi Bike shares bikes at stations across New York and New Jersey. The activities for a certain bike form a sequence of events. The training set and test set contain the records of the bikes in Jersey City from January to August 2017 and that of September 2017, respectively.
     
-###Disaster Management
+### Disaster Management
 
 -	Earthquake: Earthquake contains the time and location of earthquakes in China.
 -	Northern California seismic data: The Northern California Earthquake Data Center (NCEDC) provides public time series data that comes from broadband, short period, strong motion seismic sensors, and GPS, and other geophysical sensors.
 -	EARTHQUAKES: EARTHQUAKES contains location and time of all earthquakes in Japan from 1990 to 2020 with magnitude of at least 2.5 from the U.S. Geological Survey. Number of events per sequences ranges between 18 to 543.
     
-###Public Security
+### Public Security
 -	[911-Calls](https://www.kaggle.com/datasets/mchirico/montcoalert): 911-Calls contains emergency phone call records. The dataset has information about calling time, location of the caller and nature of the emergency.
 -	Chicago Crime Data: Chicago crime data set is a collection of reported incidents of crime that occurred in Chicago; it contains $\sim$ 13 thousand records, each of which shows time, and latitude and longitude of where the crime happened
 -	Atlanta 911 calls-for-services data: The 911 calls-for-service data in Atlanta from the end of 2015 to 2017 is provided by the Atlanta Police Department.
 
-###Others
+### Others
 
 -	NYC Collision Data: New York City vehicle collision (NYC Collision) data set contains $\sim$ 32 thousand motor vehicle collisions. Every collision is recorded in the form of time and location (latitude and longitude coordinates)
 -	Global Database of Events, Language, and Tone (GDELT): GDELT is collected from April 1, 2015 to Mar 31 2016 (temporal granularity of 15 mins). It contains records of events that include two actors, action type and timestamp of event.
