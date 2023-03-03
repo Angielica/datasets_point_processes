@@ -7,13 +7,13 @@
 -	[LastFM](http://millionsongdataset.com/lastfm/): LastFM is a music recommendation dataset containing sequences of songs that selected users listen to over time. Artists are used as event types. Specifically, the dataset contains roughly 1,000 users with entire listening history of 19, 150, 868 (user, time, artist, song) tuples from 2004 to 2009.
 -	Facebook: Facebook contains a list of all the posts on the Wall of New Orleans Facebook users. It was used for a period of 23 weeks from March 15, 2007, to August 22, 2007.
 
--	[Reddit] (https://www.kaggle.com/datasets/colemaclean/subreddit-interactions): Reddit is a social network website in which the users submit posts to subreddits (sub-forums). Posts from the most active users on the most active subreddits are recorded. Each sequence corresponds to a list of submissions a user makes. Subreddits are used as event types.
+-	[Reddit](https://www.kaggle.com/datasets/colemaclean/subreddit-interactions): Reddit is a social network website in which the users submit posts to subreddits (sub-forums). Posts from the most active users on the most active subreddits are recorded. Each sequence corresponds to a list of submissions a user makes. Subreddits are used as event types.
 
 -	MOOC: MOOC contains the interaction of students with an online course system. There are 97 unique types of interactions.
     
 -	Wikipedia: The dataset contains most edited pages. A sequence corresponds to edits of a Wikipedia page. 
 
--	[Yelp] (https://www.yelp.com/dataset): Yelp contains data from the review forum and the reviews for the 300 most visited restaurants in Toronto are considered. Each restaurant has a corresponding sequence of reviews over time.
+-	[Yelp](https://www.yelp.com/dataset): Yelp contains data from the review forum and the reviews for the 300 most visited restaurants in Toronto are considered. Each restaurant has a corresponding sequence of reviews over time.
 
 -	[Duolingo](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/N8XJME): Duolingo contains 13 million Duolingo student learning traces. 
 -	[Microsoft Academic Search (MAS)](https://www.microsoft.com/en-us/research/project/open-academic-graph/): MAS provides access to publication venues, time, citations, etc.
