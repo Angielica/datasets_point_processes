@@ -1,4 +1,4 @@
-# datasets_point_processes
+# Datasets
 
 ### Social media
 -	[Stack OverFlow](https://archive.org/details/stackexchange): Stack OverFlow is a question-answering website in which users can be awarded by answering posted questions on the website. Each event is composed of the type of reward and the time at which the reward was awarded.
